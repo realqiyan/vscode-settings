@@ -1,0 +1,39 @@
+{
+    "redhat.telemetry.enabled": true,
+    "Lingma.DisplayLanguage": "简体中文",
+    "Lingma.PreferredLanguage for AI Chat": "简体中文",
+    "Lingma.PreferredLanguage forCommitMessage": "简体中文",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "roo-cline.allowedCommands": [
+        "npm test",
+        "npm install",
+        "tsc",
+        "git log",
+        "git diff",
+        "git show"
+    ],
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "aoneCopilot.userToken": "3thz1kNcMBkxB6XPwa87",
+    "aoneCopilot.autoGitCommit.language": "zh",
+    "kilo-code.allowedCommands": [
+        "npm test",
+        "npm install",
+        "tsc",
+        "git log",
+        "git diff",
+        "git show"
+    ],
+    "Lingma.aI Chat.mcpToolsInAgentMode": false,
+    "go.toolsManagement.autoUpdate": true,
+    "files.autoSave": "afterDelay",
+    "Lingma.cloudModelAutoTriggerGenerateLength": "long",
+    "Lingma.cloudModelManualTriggerGenerateLength": "long",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "git.openRepositoryInParentFolders": "always"
+}
