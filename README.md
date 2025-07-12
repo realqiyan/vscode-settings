@@ -1,1 +1,3 @@
 # vscode-settings
+
+Sync Settings
