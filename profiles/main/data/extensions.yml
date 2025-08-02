@@ -1,5 +1,7 @@
 disabled: []
 enabled:
+  - id: alexcvzz.vscode-sqlite
+    uuid: eaee103c-e866-4b73-87f8-3749cab64da2
   - id: Alibaba-Cloud.tongyi-lingma
     uuid: b90347d7-e182-4b37-8314-4cde59e48d27
   - id: batisteo.vscode-django
@@ -22,8 +24,12 @@ enabled:
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: golang.go
     uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
+  - id: jebbs.plantuml
+    uuid: d95cb424-7a5a-4e08-9698-107d6fd590cf
   - id: KevinRose.vsc-python-indent
     uuid: f3cbfb84-b1e1-40ff-b70f-877253461260
+  - id: kilocode.kilo-code
+    uuid: 849d53b8-0eb4-4e6b-b73f-870eefcbbf1b
   - id: mechatroner.rainbow-csv
     uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
   - id: ms-python.black-formatter
@@ -34,6 +40,8 @@ enabled:
     uuid: f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5
   - id: ms-python.vscode-pylance
     uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
+  - id: ms-python.vscode-python-envs
+    uuid: b41d8e8a-b6d4-4202-8f07-7189bdda81be
   - id: ms-toolsai.jupyter
     uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
   - id: ms-toolsai.jupyter-keymap
