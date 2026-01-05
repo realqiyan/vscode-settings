@@ -1,9 +1,11 @@
-disabled: []
+disabled:
+  - id: kilocode.kilo-code
+    uuid: 849d53b8-0eb4-4e6b-b73f-870eefcbbf1b
+  - id: saoudrizwan.claude-dev
+    uuid: ad94c633-a9d5-4f78-b85f-c664e7d91a0f
 enabled:
   - id: alexcvzz.vscode-sqlite
     uuid: eaee103c-e866-4b73-87f8-3749cab64da2
-  - id: Alibaba-Cloud.tongyi-lingma
-    uuid: b90347d7-e182-4b37-8314-4cde59e48d27
   - id: batisteo.vscode-django
     uuid: 4b41a5a8-170e-4156-b2c0-10efb270abbc
   - id: bierner.markdown-mermaid
@@ -28,8 +30,8 @@ enabled:
     uuid: d95cb424-7a5a-4e08-9698-107d6fd590cf
   - id: KevinRose.vsc-python-indent
     uuid: f3cbfb84-b1e1-40ff-b70f-877253461260
-  - id: kilocode.kilo-code
-    uuid: 849d53b8-0eb4-4e6b-b73f-870eefcbbf1b
+  - id: Lencerf.beancount
+    uuid: 880daa6f-0c8d-4f1c-8c86-e5c4382183a4
   - id: mechatroner.rainbow-csv
     uuid: 3792588c-3d35-442d-91ea-fe6a755e8155
   - id: ms-python.black-formatter
@@ -42,28 +44,14 @@ enabled:
     uuid: 364d2426-116a-433a-a5d8-a5098dc3afbd
   - id: ms-python.vscode-python-envs
     uuid: b41d8e8a-b6d4-4202-8f07-7189bdda81be
-  - id: ms-toolsai.jupyter
-    uuid: 6c2f1801-1e7f-45b2-9b5c-7782f1e076e8
-  - id: ms-toolsai.jupyter-keymap
-    uuid: 9f6dc8db-620c-4844-b8c5-e74914f1be27
   - id: ms-toolsai.jupyter-renderers
     uuid: b15c72f8-d5fe-421a-a4f7-27ed9f6addbf
-  - id: ms-toolsai.vscode-jupyter-cell-tags
-    uuid: ab4fb32a-befb-4102-adf9-1652d0cd6a5e
-  - id: ms-toolsai.vscode-jupyter-slideshow
-    uuid: e153ca70-b543-4865-b4c5-b31d34185948
   - id: njpwerner.autodocstring
     uuid: 2d6fea35-f68e-461d-9b7b-5cd05be99451
   - id: redhat.java
     uuid: 198a707e-28af-4e84-8610-6e2f628dd12d
-  - id: saoudrizwan.claude-dev
-    uuid: ad94c633-a9d5-4f78-b85f-c664e7d91a0f
   - id: tomoki1207.pdf
     uuid: 6db08635-0c6a-45ba-9a4b-8c3e192c63c2
-  - id: VisualStudioExptTeam.intellicode-api-usage-examples
-    uuid: 9fa2a00e-3bfa-4c2a-abc4-a865bb2b5cf3
-  - id: VisualStudioExptTeam.vscodeintellicode
-    uuid: 876e8f93-74d0-4f4f-91b7-34a09f19f444
   - id: vmware.vscode-boot-dev-pack
     uuid: 26069f6b-56ea-4c29-8e28-371698a60020
   - id: vmware.vscode-spring-boot

@@ -22,12 +22,12 @@
     "aoneCopilot.userToken": "3thz1kNcMBkxB6XPwa87",
     "aoneCopilot.autoGitCommit.language": "zh",
     "kilo-code.allowedCommands": [
-        "npm test",
-        "npm install",
-        "tsc",
         "git log",
         "git diff",
-        "git show"
+        "git show",
+        "npm test",
+        "npm install",
+        "tsc"
     ],
     "Lingma.aI Chat.mcpToolsInAgentMode": false,
     "go.toolsManagement.autoUpdate": true,
@@ -35,5 +35,6 @@
     "Lingma.cloudModelAutoTriggerGenerateLength": "long",
     "Lingma.cloudModelManualTriggerGenerateLength": "long",
     "diffEditor.ignoreTrimWhitespace": false,
-    "git.openRepositoryInParentFolders": "always"
+    "git.openRepositoryInParentFolders": "always",
+    "kilo-code.deniedCommands": []
 }
